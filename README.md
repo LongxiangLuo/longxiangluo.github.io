@@ -3,14 +3,17 @@
 </h1>
 
 
-<p align="center">
-  <a href="https://aaronluo00.github.io/Aaron_Homepage/"><strong>🌐 Explore my full homepage →</strong></a>
-</p>
 
 <p align="center">
-  🎓 Ph.D. Student in Engineering Science @ Harvard University  
-  🧠 Building intelligent diagnostic agents | Multi-modal + Multi-task + LLMs  
-  📧 Email: <a href="mailto:xiaolongluo@g.harvard.edu">xiaolongluo[@]g.harvard.edu</a>
+  ☀️ Sept. 2025 to Present  |  Associate Professor, School of Arts and Communication, China University of Geosciences
+  📖 Sept. 2025 to Present  |  Research Fellow, School of Automation, Chaiona University of Geosciences
+  🎓 Sept. 2021 to Jun.2025 |  Ph.D. Student in Journalism and Communication (New Media Studies), Peking University
+
+
+  
+<p align="center">
+  ✨ Building intelligent diagnostic agents | Multi-modal + Multi-task + LLMs  
+  📧 Email: <a href="mailto:xiaolongluo@g.harvard.edu">xiaolongluo@]g.harvard.edu</a>
 </p>
 
 ---
