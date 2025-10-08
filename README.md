@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-![Uploading 微信图片_2025-09-18_143752_310_副本.jpg…]()
+<img src="[图片的URL链接](https://raw.githubusercontent.com/LongxiangLuo/longxiangluo.github.io/refs/heads/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-09-18_143752_310_%E5%89%AF%E6%9C%AC.jpg)" alt="PersonalPicture" width="450" height="600" />
 
   
 <p align="center">
