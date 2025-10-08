@@ -1,12 +1,14 @@
 # longxiangluo.github.io
-Personal website for Longxiang (Lawrence) Luo.
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Longxiang+(Lawrence)+Luo; Associate+Professor+@+China+University+of+Geosciences;AI&Human-machine Communication+Researcher+in+Healthcare;Designing+and Building+Healthcare+Robots" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Longxiang+(Lawrence)+Luo; Human-machine Communication+Researcher+in+Healthcare" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  🧠 Working at: School of Arts and Communication & School of Automation, China University of Geosciences.  
+  🧠 Working at: School of Arts and Communication & School of Automation, China University of Geosciences. 
+  
   🎓 Ph.D. at: School of New Media, Peking University.
+  
   📧 Email: <a href="mailto:longxiang.luo@cug.edu.cn">longxiang.luo[@]cug.edu.cn</a>
 </p>
 
