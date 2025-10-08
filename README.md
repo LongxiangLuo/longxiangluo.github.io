@@ -3,11 +3,15 @@
 </h1>
 
 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Me"/>
+  </a>
 
+
+  
 <p align="center">
   ☀️ Sept. 2025 to Present  |  Associate Professor, School of Arts and Communication, China University of Geosciences
 <p align="center">
-  📖 Sept. 2025 to Present  |  Research Fellow, School of Automation, Chaiona University of Geosciences
+  📖 Sept. 2025 to Present  |  Research Fellow, School of Automation, Chaina University of Geosciences
 <p align="center">
   🎓 Sept. 2021 to Jun.2025 |  Ph.D. Student in Journalism and Communication (New Media Studies), Peking University
  <p align="center">
@@ -15,6 +19,7 @@
  <p align="center">
  <p align="center">
    🏚️ Address: 388 Lumo Road, Hongshan District, Wuhan, China. 430078.
+ <p align="center">
    📧 Email: <a href="mailto:longxiangluo@cug.edu.cn">longxiangluo@]cug.edu.cn</a>
 </p>
 
