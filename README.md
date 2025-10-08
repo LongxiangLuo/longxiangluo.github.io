@@ -6,14 +6,14 @@
 
 <p align="center">
   ☀️ Sept. 2025 to Present  |  Associate Professor, School of Arts and Communication, China University of Geosciences
-  📖 Sept. 2025 to Present  |  Research Fellow, School of Automation, Chaiona University of Geosciences
-  🎓 Sept. 2021 to Jun.2025 |  Ph.D. Student in Journalism and Communication (New Media Studies), Peking University
-
-
-  
 <p align="center">
-  ✨ Building intelligent diagnostic agents | Multi-modal + Multi-task + LLMs  
-  📧 Email: <a href="mailto:xiaolongluo@g.harvard.edu">xiaolongluo@]g.harvard.edu</a>
+  📖 Sept. 2025 to Present  |  Research Fellow, School of Automation, Chaiona University of Geosciences
+<p align="center">
+  🎓 Sept. 2021 to Jun.2025 |  Ph.D. Student in Journalism and Communication (New Media Studies), Peking University
+<p align="center">
+  📧 Email: <a href="mailto:longxiangluo@cug.edu.cn">longxiangluo@]cug.edu.cn</a>
+  <p align="center">
+  🔬 Research interests| Human machine Communication + Health Communication + Science,Technology and Society
 </p>
 
 ---
