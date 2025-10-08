@@ -3,10 +3,6 @@
 </h1>
 
 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Me"/>
-  </a>
-
-
   
 <p align="center">
   ☀️ Sept. 2025 to Present  |  Associate Professor, School of Arts and Communication, China University of Geosciences
