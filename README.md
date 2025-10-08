@@ -5,13 +5,11 @@
 
   
 <p align="center">
-  ☀️ Sept. 2025 to Present  |  Associate Professor, School of Arts and Communication, China University of Geosciences
+  ☀️ Associate Professor, School of Arts and Communication, China University of Geosciences  | Sept. 2025 to Present
 <p align="center">
-  📖 Sept. 2025 to Present  |  Research Fellow, School of Automation, Chaina University of Geosciences
+  📖 Research Fellow, School of Automation, China University of Geosciences | Sept. 2025 to Present
 <p align="center">
-  🎓 Sept. 2021 to Jun.2025 |  Ph.D. Student in Journalism and Communication (New Media Studies), Peking University
- <p align="center">
-  🔬 Research interests| Human machine Communication + Health Communication + Science,Technology and Society
+  🎓 Ph.D. Student in Journalism and Communication (New Media Studies), Peking University | Sept. 2021 to Jun.2025
  <p align="center">
  <p align="center">
    🏚️ Address: 388 Lumo Road, Hongshan District, Wuhan, China. 430078.
@@ -19,23 +17,11 @@
    📧 Email: <a href="mailto:longxiangluo@cug.edu.cn">longxiangluo@]cug.edu.cn</a>
 </p>
 
----
 
-<p align="center">
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=AaronLuo00&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/AaronLuo00?style=for-the-badge&logo=github&label=Followers&color=2eb85c"/>
-  
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/AaronLuo00?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=f39c12"/>
-</p>
-
----
 
 ## 🔬 Research Interests
-> **Flexible Diagnostic Models with Multi-task and Multi-modal Learning**  
+> ** **Human-machine Communication**
+> Flexible Diagnostic Models with Multi-task and Multi-modal Learning**  
 > I work on developing advanced AI models that can simultaneously handle multiple diagnostic tasks while effectively integrating various types of medical data (imaging, clinical notes, lab results) to provide more comprehensive and accurate medical assessments.  
 >   
 > **Democratizing Healthcare Access through AI Agents**  
