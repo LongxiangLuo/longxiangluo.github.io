@@ -5,11 +5,11 @@
 </h1>
 
 <p align="center">
-  🧠 Working at: School of Arts and Communication & School of Automation, China University of Geosciences. 
+🧠 Working at: School of Arts and Communication & School of Automation, China University of Geosciences. 
   
-  🎓 Ph.D. at: School of New Media, Peking University.
+🎓 Ph.D. at: School of New Media, Peking University.
   
-  📧 Email: <a href="mailto:longxiang.luo@cug.edu.cn">longxiang.luo[@]cug.edu.cn</a>
+📧 Email: <a href="mailto:longxiang.luo@cug.edu.cn">longxiang.luo[@]cug.edu.cn</a>
 </p>
 
 ---
