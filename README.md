@@ -14,9 +14,12 @@
    🏚️ Address: 388 Lumo Road, Hongshan District, Wuhan, China. 430078.
  <p align="center">
    📧 Email: <a href="mailto:longxiangluo@cug.edu.cn">longxiangluo@]cug.edu.cn</a>
+
+
+   
 </p>
 
-
+---
 
 ## 🔬 Research Interests
 > **Human-machine Communication, Health Communication, and Science, Technology and Society**
@@ -32,14 +35,14 @@
 ---
 
 ## 🌱 Long-term Vision
+<p style="text-align: left;">
 > I wish both my theoretical and empirical works would earn a real-world healthcare impact.
 </p>
-
 
 ---
 
 ## 👨🏻‍💻 Selected Papers
-
+<p style="text-align: left;">
 > **English Paper**
   <p align="center">
 <p style="text-align: left;"> Luo，L.，Li，X., & Liu, Z. (2025). How can AI Enhance Depression Detection in Patient-provider Communication: Empirical Evidence Based on Voice and Affective Computing Method. The 75th International Communication Association (ICA) Regional Hub, Hefei, China. 2025.
@@ -61,7 +64,7 @@
 </p>
 
 > **Chinese Paper**
-  <p align="center">
+<p style="text-align: left;">
 <p style="text-align: left;">罗龙翔, 张玉涵, & 王秀丽. (2025). “AI幻觉”:基本内涵、典型表现、技术成因与应对策略. 新媒体传播研究, 1(1), 38–48.
   <p align="center">
 <p style="text-align: left;">罗龙翔, 王兵, & 王秀丽. (2024). 人机传播的失灵与修复：家庭成员“共同媒介参与”的视频分析研究. 国际新闻界, 46(08), 27–49. （CSSCI）
