@@ -21,13 +21,14 @@
 
 ## 🔬 Research Interests
 > **Human-machine Communication, Health Communication, and Science, Technology and Society**
-  <p align="center">
+<p style="text-align: left;">
 > Focusing on topics related to media technology, AI, Robotics, and healthcare.**
-  <p align="center">
+<p style="text-align: left;">
 > Primarily employs classical quantitative and qualitative methods from social science research.**
-  <p align="center">
+<p style="text-align: left;">
 > Or integrates concepts and methods from affective computing and Science, Technology and Society(STS).**
 
+  <p align="center">
 ---
 
 ## 🌱 Long-term Vision
