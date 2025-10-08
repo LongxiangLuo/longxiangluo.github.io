@@ -35,44 +35,18 @@
 
 ---
 
-## 👨🏻‍💻 Languages and Tools
+## 👨🏻‍💻 Selected Papers
 
-<p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronLuo00&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLuo00&layout=compact&theme=tokyonight" height="170"/>
-</p>
+Luo，L.，Li，X., & Liu, Z. (2025). How can AI Enhance Depression Detection in Patient-provider Communication: Empirical Evidence Based on Voice and Affective Computing Method. The 75th International Communication Association (ICA) Regional Hub, Hefei, China. 2025.
+Luo，L.，Chen，F., & Liu, Z. (2025). Trust as Social Script in Human-machine Communication: Evidence from Mobile Banking Chatbots. The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII 2025), Zhuhai, China.
+Wang, B., Luo, L., & Wang, X. (2024). Are algorithms always fair? The study on public preferences toward algorithmic decision‐making: A case study from the perspectives of decision scenarios and social roles. Economics & Politics, 1–22. （SSCI）
+Zhang, Y., Luo, L., & Wang, X. (2024). Aging with robots: A brief review on eldercare automation. Interdisciplinary Nursing Research, 3(1), 49–56. 
+Wang, B., Luo, L., & Wang, X. (2023). “Back to the living room era”: Smart speaker usage and family democracy from the family dynamic perspective. New Media & Society, 146144482311556–146144482311556.（SSCI）
+Luo, L., & Lin, Z. (2020). Development Tendency of Double-Layer Digital Divide in Mainland China: A Longitudinal Study Based on Perspective of Group Segmentation. In Communications in Computer and Information Science (pp. 170–185). Springer International Publishing. 
+Luo, L. (2022). Why human interact with machine continuously? A mixed study with Smart Speaker. The 72nd International Communication Association (ICA) Regional Hub, Beijing. 2022.
+Luo, L. (2022). Predictors of social media users COVID-19 vaccination intention: A national survey in China. The 5th International Conference of Medicine, Humanity and Media. Beijing. 2022.
+<img width="432" height="396" alt="image" src="https://github.com/user-attachments/assets/06169a6a-8c03-47e8-b1b9-c7d518fbeb9c" />
 
-<p align="left">
-  <!-- Python & Related -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
-
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
-
-  <!-- Frameworks / Data / ML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45"/>
-
-  <!-- Platforms / Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45"/>
 </p>
 
 ## 🤝 Connect with me
