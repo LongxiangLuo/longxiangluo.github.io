@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=400&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Longxiang+(Lawrence)+Luo;Associate+Professor+@+CUG+(WUhan);AI+Researcher+in+Healthcare;Building+Healthcare+Robots" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+![微信图片_2025-09-18_143752_310_副本](https://github.com/user-attachments/assets/49b05ad3-eb50-48c5-b995-45cc57b87ce4)
 
   
 <p align="center">
@@ -28,7 +30,6 @@
 <p style="text-align: left;">
 > Or integrates concepts and methods from affective computing and Science, Technology and Society(STS).**
 
-  <p align="center">
 ---
 
 ## 🌱 Long-term Vision
