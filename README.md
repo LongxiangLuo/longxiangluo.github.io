@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=400&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Longxiang+(Lawrence)+Luo;Associate+Professor+@+CUG+(WUhan);AI+Researcher+in+Healthcare;Building+Healthcare+Robots" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-<img src="[图片的URL链接](https://raw.githubusercontent.com/LongxiangLuo/longxiangluo.github.io/refs/heads/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-09-18_143752_310_%E5%89%AF%E6%9C%AC.jpg)" alt="PersonalPicture" width="450" height="600" />
 
   
 <p align="center">
@@ -29,11 +27,15 @@
 > Primarily employs classical quantitative and qualitative methods from social science research.**
 <p style="text-align: left;">
 > Or integrates concepts and methods from affective computing and Science, Technology and Society(STS).**
+</p>
+
 
 ---
 
 ## 🌱 Long-term Vision
 > I aspire to become a compound talent who deeply understands large-scale medical data, multi-modal learning, and end-to-end clinical applications.  My long-term goal is to bridge cutting-edge AI research and real-world healthcare impact, driving both technical innovation and product commercialization. Ultimately, I hope to promote a more equitable distribution of medical resources, enabling better healthcare access and outcomes for all, and bringing broader benefits to society.
+</p>
+
 
 
 ---
@@ -60,34 +62,56 @@
 
 </p>
 
-## 🤝 Connect with me
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/xiaolong-luo-4a8281236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- Google Scholar -->
-  <a href="https://scholar.google.com/citations?user=Pjx2DdQAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/AaronLuo00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- Xiaohongshu -->
-  <a href="https://xhslink.com/m/9rvz3QJ3Tvu">
-    <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/>
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/aaron_luo_00/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+> **Chinese Paper**
+  <p align="center">
+<p style="text-align: left;">罗龙翔, 张玉涵, & 王秀丽. (2025). “AI幻觉”:基本内涵、典型表现、技术成因与应对策略. 新媒体传播研究, 1(1), 38–48.
+  <p align="center">
+<p style="text-align: left;">罗龙翔, 王兵, & 王秀丽. (2024). 人机传播的失灵与修复：家庭成员“共同媒介参与”的视频分析研究. 国际新闻界, 46(08), 27–49. （CSSCI）
+  <p align="center">
+<p style="text-align: left;">王兵, & 罗龙翔. (2024). 从媒介等同到媒介唤起：人机传播中的机器本体论重思——以车载机器人NOMI为例. 新闻界, 11, 59–71. （CSSCI）
+  <p align="center">
+<p style="text-align: left;">罗龙翔, & 王秀丽. (2024). 媒介使用行为如何影响主观幸福感？—基于CGSS2021数据的实证分析. 北大新闻与传播评论, 0(0), 244–263. （CSSCI）
+  <p align="center">
+<p style="text-align: left;">	罗龙翔.（2022）. 北京冬奥会的国际传播特色考察.新闻论坛36(02):13-14.
+  <p align="center">
+<p style="text-align: left;">王秀丽, 罗龙翔, & 王兵. (2022). 智能音箱的使用风险及其社会治理启示. 北京航空航天大学学报(社会科学版), 35(01), 102–108. （CSSCI）
+  <p align="center">
+<p style="text-align: left;">罗龙翔, 王兵, & 王秀丽. (2021). 功能、关系与哲学：人机传播视域下用户与智能音箱的互动研究. 全球传媒学刊, 8(03), 102–118. （CSSCI）
+  <p align="center">
+<p style="text-align: left;">罗龙翔, & 王秀丽. (2021). 社交媒体和电视信息接收对新型冠状病毒肺炎预防行为的影响——基于风险感知的实证研究. 医学与社会, 34(06), 106–112. （北大核心）
+  <p align="center">
+<p style="text-align: left;">王秀丽, 罗龙翔, & 赵雯雯. (2019). 中国健康传播的研究对象、学科建设与方法:基于范式建构理论的内容分析(2009—2018). 全球传媒学刊, 6(03), 34–52. （CSSCI）
+  <p align="center">
+<p style="text-align: left;">王秀丽, 张隽, 罗龙翔, & 王兵. (2019). 中国公益组织的社会化媒体使用及效果研究. 北京航空航天大学学报(社会科学版), 32(06), 59–68. （CSSCI）
+
+</p>
+  
+
+## ：🏆 Awards
+
+<p style="text-align: left;">07/2023 State-Sponsored Scholarship for Study Abroad, China Scholarship Council (CSC).
+  <p align="center"> 
+<p style="text-align: left;">07/2023 President Scholarship for Graduates, Peking University.
+  <p align="center">
+<p style="text-align: left;">10/2022 “May Fourth” Scholarship (Highest Level of Student Scholarship), Peking University.
+  <p align="center">
+<p style="text-align: left;">10/2022 Outstanding Scientific Research Award, Peking University.
+  <p align="center">
+<p style="text-align: left;">10/2022 Academic Innovation Award, Peking University.
+  <p align="center">
+<p style="text-align: left;">10/2021 Merit Student, Peking University. 
+  <p align="center">
+<p style="text-align: left;">10/2020 .Special Academic Scholarship, Peking University.
+  <p align="center">
+<p style="text-align: left;">10/2019 “Modern Communication” Award, School of New Media, Peking University.
+
+
 </p>
 
 ---
 
 ## ✨ Quote
-> *"Do, or do not. There is no 'try'."* — Yoda
+> *"Keep Calm and Carry On."* 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
