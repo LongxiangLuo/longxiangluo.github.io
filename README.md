@@ -32,9 +32,8 @@
 ---
 
 ## 🌱 Long-term Vision
-> I aspire to become a compound talent who deeply understands large-scale medical data, multi-modal learning, and end-to-end clinical applications.  My long-term goal is to bridge cutting-edge AI research and real-world healthcare impact, driving both technical innovation and product commercialization. Ultimately, I hope to promote a more equitable distribution of medical resources, enabling better healthcare access and outcomes for all, and bringing broader benefits to society.
+> I wish both my theoretical and empirical works would earn a real-world healthcare impact.
 </p>
-
 
 
 ---
@@ -86,7 +85,7 @@
 </p>
   
 
-## ：🏆 Awards
+## 🏆 Awards
 
 <p style="text-align: left;">07/2023 State-Sponsored Scholarship for Study Abroad, China Scholarship Council (CSC).
   <p align="center"> 
