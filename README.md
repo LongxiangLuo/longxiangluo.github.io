@@ -21,8 +21,11 @@
 
 ## 🔬 Research Interests
 > **Human-machine Communication, Health Communication, and Science, Technology and Society**
+  <p align="center">
 > Focusing on topics related to media technology, AI, Robotics, and healthcare.**
+  <p align="center">
 > Primarily employs classical quantitative and qualitative methods from social science research.**
+  <p align="center">
 > Or integrates concepts and methods from affective computing and Science, Technology and Society(STS).**
 
 ---
@@ -35,15 +38,16 @@
 
 ## 👨🏻‍💻 Selected Papers
 
-Luo，L.，Li，X., & Liu, Z. (2025). How can AI Enhance Depression Detection in Patient-provider Communication: Empirical Evidence Based on Voice and Affective Computing Method. The 75th International Communication Association (ICA) Regional Hub, Hefei, China. 2025.
-Luo，L.，Chen，F., & Liu, Z. (2025). Trust as Social Script in Human-machine Communication: Evidence from Mobile Banking Chatbots. The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII 2025), Zhuhai, China.
-Wang, B., Luo, L., & Wang, X. (2024). Are algorithms always fair? The study on public preferences toward algorithmic decision‐making: A case study from the perspectives of decision scenarios and social roles. Economics & Politics, 1–22. （SSCI）
-Zhang, Y., Luo, L., & Wang, X. (2024). Aging with robots: A brief review on eldercare automation. Interdisciplinary Nursing Research, 3(1), 49–56. 
-Wang, B., Luo, L., & Wang, X. (2023). “Back to the living room era”: Smart speaker usage and family democracy from the family dynamic perspective. New Media & Society, 146144482311556–146144482311556.（SSCI）
-Luo, L., & Lin, Z. (2020). Development Tendency of Double-Layer Digital Divide in Mainland China: A Longitudinal Study Based on Perspective of Group Segmentation. In Communications in Computer and Information Science (pp. 170–185). Springer International Publishing. 
-Luo, L. (2022). Why human interact with machine continuously? A mixed study with Smart Speaker. The 72nd International Communication Association (ICA) Regional Hub, Beijing. 2022.
-Luo, L. (2022). Predictors of social media users COVID-19 vaccination intention: A national survey in China. The 5th International Conference of Medicine, Humanity and Media. Beijing. 2022.
-<img width="432" height="396" alt="image" src="https://github.com/user-attachments/assets/06169a6a-8c03-47e8-b1b9-c7d518fbeb9c" />
+> **English Paper**
+  <p align="center">
+> Luo，L.，Li，X., & Liu, Z. (2025). How can AI Enhance Depression Detection in Patient-provider Communication: Empirical Evidence Based on Voice and Affective Computing Method. The 75th International Communication Association (ICA) Regional Hub, Hefei, China. 2025.
+> Luo，L.，Chen，F., & Liu, Z. (2025). Trust as Social Script in Human-machine Communication: Evidence from Mobile Banking Chatbots. The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII 2025), Zhuhai, China.
+> Wang, B., Luo, L., & Wang, X. (2024). Are algorithms always fair? The study on public preferences toward algorithmic decision‐making: A case study from the perspectives of decision scenarios and social roles. Economics & Politics, 1–22. （SSCI）
+> Zhang, Y., Luo, L., & Wang, X. (2024). Aging with robots: A brief review on eldercare automation. Interdisciplinary Nursing Research, 3(1), 49–56. 
+> Wang, B., Luo, L., & Wang, X. (2023). “Back to the living room era”: Smart speaker usage and family democracy from the family dynamic perspective. New Media & Society, 146144482311556–146144482311556.（SSCI）
+> Luo, L., & Lin, Z. (2020). Development Tendency of Double-Layer Digital Divide in Mainland China: A Longitudinal Study Based on Perspective of Group Segmentation. In Communications in Computer and Information Science (pp. 170–185). Springer International Publishing. 
+> Luo, L. (2022). Why human interact with machine continuously? A mixed study with Smart Speaker. The 72nd International Communication Association (ICA) Regional Hub, Beijing. 2022.
+> Luo, L. (2022). Predictors of social media users COVID-19 vaccination intention: A national survey in China. The 5th International Conference of Medicine, Humanity and Media. Beijing. 2022.
 
 </p>
 
