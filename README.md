@@ -23,13 +23,13 @@
 ## 🔬 **Research Interests** ## 
    
 <p style="text-align: left;">
-> ****Human-machine Communication, Health Communication, and Science, Technology and Society****
+> ***Human-machine Communication, **Health Communication, and ***Science, Technology and Society （STS）**
 <p style="text-align: left;">
-> Focusing on topics related to media technology, AI, Robotics, and healthcare.**
+> Focusing on topics related to media technology, AI, Robotics, and healthcare.
 <p style="text-align: left;">
-> Primarily employs classical quantitative and qualitative methods from social science research.**
+> Primarily employs classical quantitative and qualitative methods from social science research.
 <p style="text-align: left;">
-> Or integrates concepts and methods from affective computing and Science, Technology and Society(STS).**
+> Or integrates concepts and methods from affective computing and Science, Technology and Society.
 </p>
 
 
@@ -45,7 +45,12 @@
 
 ---
 
+ <p align="center">
 ## 👨🏻‍💻 **Selected Papers** ##
+
+<p style="text-align: left;">
+> **Doctoral Dissertation**
+<p style="text-align: left;">  Luo, L. (2025). Socialtechnical Imaginary of Robot in the Process of Chinese-style Modernization， Peking University， Beijing.
 
 <p style="text-align: left;">
 > **English Paper**
@@ -97,7 +102,8 @@
 
 ---
 
-## 🏆 Awards
+ <p align="center">
+## 🏆 **Awards** ##
 
 <p style="text-align: left;">07/2023 State-Sponsored Scholarship for Study Abroad, China Scholarship Council (CSC).
 
@@ -121,7 +127,7 @@
 ## ✨ Quote
 > *"Keep Calm and Carry On."* 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-<p style="text-align: left;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<p align="center">
 Thanks for your kindness and your support @AraonLuo00
 </p>
