@@ -16,7 +16,9 @@
 <p style="text-align: left;">
   ☀️ Associate Professor, School of Arts and Communication, China University of Geosciences, Wuhan.   | Sept. 2025 to Present
 <p style="text-align: left;">
-  📖 Research Fellow, School of Automation, China University of Geosciences, Wuhan.  | Sept. 2025 to Present
+  📖 Research Fellow, School of Automation, China University of Geosciences, Wuhan.  | Sept. 2025 to Present 
+<p style="text-align: left;">
+  ⛵ Visiting Scholar, Department of Communication, University of California, Davis.  | Nov. 2023 to Nov. 2024
 <p style="text-align: left;">
   🎓 Ph.D. Student in Journalism and Communication (New Media Studies), Peking University, Beijing.  | Sept. 2021 to Jun.2025
 <p style="text-align: left;">
