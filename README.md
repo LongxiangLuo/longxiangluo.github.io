@@ -14,11 +14,11 @@
  ## ℹ️ **Basic Info** 
 
 <p style="text-align: left;">
-  ☀️ Associate Professor, School of Arts and Communication, China University of Geosciences  | Sept. 2025 to Present
+  ☀️ Associate Professor, School of Arts and Communication, China University of Geosciences, Wuhan.   | Sept. 2025 to Present
 <p style="text-align: left;">
-  📖 Research Fellow, School of Automation, China University of Geosciences | Sept. 2025 to Present
+  📖 Research Fellow, School of Automation, China University of Geosciences, Wuhan.  | Sept. 2025 to Present
 <p style="text-align: left;">
-  🎓 Ph.D. Student in Journalism and Communication (New Media Studies), Peking University | Sept. 2021 to Jun.2025
+  🎓 Ph.D. Student in Journalism and Communication (New Media Studies), Peking University, Beijing.  | Sept. 2021 to Jun.2025
 <p style="text-align: left;">
    🏚️ Address: 388 Lumo Road, Hongshan District, Wuhan, China. 430078.
 <p style="text-align: left;">
