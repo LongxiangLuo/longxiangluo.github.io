@@ -77,13 +77,14 @@
 <p style="text-align: left;">
   
 > **Doctoral Dissertation**
-<p style="text-align: left;">  Luo, L. (2025). Socialtechnical Imaginary of Robot in the Process of Chinese-style Modernization， Peking University， Beijing.
+<p style="text-align: left;">  Luo, L. (2025). Socialtechnical Imaginary of Robot in the Process of Chinese-style Modernization,Peking University, Beijing.
+
 
 <p style="text-align: left;">
   
 > **English Paper**
 
-<p style="text-align: left;"> Luo，L.，Li，X., & Liu, Z. (2025). How can AI Enhance Depression Detection in Patient-provider Communication: Empirical Evidence Based on Voice and Affective Computing Method. The 75th International Communication Association (ICA) Regional Hub, Hefei, China. 2025.
+<p style="text-align: left;"> Luo，L.，Li，X., & Liu, Z. (2025). How can AI Enhance Depression Detection in Patient-provider Communication: Empirical Evidence Based on Voice and Affective Computing Method. The 75th International Communication Association (ICA) Regional Hub, Hefei, China. 
     <p align="center">
 <p style="text-align: left;">Luo，L.，Chen，F., & Liu, Z. (2025). Trust as Social Script in Human-machine Communication: Evidence from Mobile Banking Chatbots. The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII 2025), Zhuhai, China.
       <p align="center">
