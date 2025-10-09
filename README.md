@@ -30,7 +30,7 @@
   </a>
   <!-- ORCID -->
   <a href="https://orcid.org/my-orcid?orcid=0000-0001-8473-2273">
-    <img src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="ORCID"/>
+    <img src="https://orcid.org/assets/vectors/orcid.logo.svg" style="width: 400; height: 200" alt="ORCID"/>
 </p>
 
 ---
