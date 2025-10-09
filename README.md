@@ -8,7 +8,6 @@
  <img src="https://raw.githubusercontent.com/LongxiangLuo/longxiangluo.github.io/main/LawrenceLuo.jpg" width="600" alt="PersonalPicture"/>
 </p>
 
-
 ---
 <p style="text-align: left;">
   ☀️ Associate Professor, School of Arts and Communication, China University of Geosciences  | Sept. 2025 to Present
@@ -23,9 +22,9 @@
 </p>
 
 ---
-
  <p align="center">
-## 🤝 **Find me** ****
+   
+## 🌐 **Find me** ****
 <p align="center">
   <!-- Google Scholar -->
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=EV9tKQUAAAAJ&view_op=list_works&gmla=AH8HC4zW642bKotuRjPgvfwPILOLZ8qrHsYGXTyx5z49yJ2twUfcGQo9JvDmdz2jksUHUYAA2HnFvZR6YDc-JEEs0u3OP5hc3cNn4jPA4yg">
@@ -42,8 +41,8 @@
 </p>
 
 ---
-
  <p align="center">
+   
 ## 🔬 **Research Interests** ## 
    
 <p style="text-align: left;">
@@ -56,11 +55,9 @@
 > Or integrates concepts and methods from affective computing and Science, Technology and Society.
 </p>
 
-
-
 ---
-
  <p align="center">
+   
 ## 🌱 **Long-term Vision** ## 
    
 <p style="text-align: left;">
@@ -70,6 +67,7 @@
 ---
 
  <p align="center">
+   
 ## 👨🏻‍💻 **Selected Papers** ##
 
 <p style="text-align: left;">
@@ -77,6 +75,7 @@
 <p style="text-align: left;">  Luo, L. (2025). Socialtechnical Imaginary of Robot in the Process of Chinese-style Modernization， Peking University， Beijing.
 
 <p style="text-align: left;">
+  
 > **English Paper**
 
 <p style="text-align: left;"> Luo，L.，Li，X., & Liu, Z. (2025). How can AI Enhance Depression Detection in Patient-provider Communication: Empirical Evidence Based on Voice and Affective Computing Method. The 75th International Communication Association (ICA) Regional Hub, Hefei, China. 2025.
@@ -98,6 +97,7 @@
 </p>
 
 <p style="text-align: left;">
+  
 > **Chinese Paper**
 
 <p style="text-align: left;">罗龙翔, 张玉涵, & 王秀丽. (2025). “AI幻觉”:基本内涵、典型表现、技术成因与应对策略. 新媒体传播研究, 1(1), 38–48.
@@ -127,6 +127,7 @@
 ---
 
  <p align="center">
+   
 ## 🏆 **Awards** ##
 
 <p style="text-align: left;">07/2023 State-Sponsored Scholarship for Study Abroad, China Scholarship Council (CSC).
@@ -148,7 +149,9 @@
 
 ---
 
-## ✨ Quote
+ <p align="center">
+   
+## **✨ Quote** ##
 > *"Keep Calm and Carry On."* 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
