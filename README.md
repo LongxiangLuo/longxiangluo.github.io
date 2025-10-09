@@ -22,7 +22,7 @@
 <p align="center">
   <!-- Google Scholar -->
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=EV9tKQUAAAAJ&view_op=list_works&gmla=AH8HC4zW642bKotuRjPgvfwPILOLZ8qrHsYGXTyx5z49yJ2twUfcGQo9JvDmdz2jksUHUYAA2HnFvZR6YDc-JEEs0u3OP5hc3cNn4jPA4yg">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" style="width: 150px; height: 35px" alt="Google Scholar"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <!-- GitHub -->
   <a href="https://github.com/LongxiangLuo">
