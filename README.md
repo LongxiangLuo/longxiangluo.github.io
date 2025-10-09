@@ -22,7 +22,7 @@
 <p style="text-align: left;">
    🏚️ Address: 388 Lumo Road, Hongshan District, Wuhan, China. 430078.
 <p style="text-align: left;">
-   📧 Email: <a href="mailto:longxiangluo@cug.edu.cn">longxiangluo@cug.edu.cn</a>  
+   📧 Email: <a href="mailto:longxiang.luo@cug.edu.cn">longxiang.luo@cug.edu.cn</a>  
 </p>
 
 ---
