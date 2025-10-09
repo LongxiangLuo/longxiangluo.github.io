@@ -161,7 +161,7 @@
    
 ## **✨ Motto ** ##
 
- <p align="center">
+<p style="text-align: left;">
 > *"Keep Calm and Carry On."* 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
