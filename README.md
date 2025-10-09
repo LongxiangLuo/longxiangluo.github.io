@@ -67,7 +67,7 @@
 ## 🌱 **Long-term Vision** ## 
    
 <p style="text-align: left;">
-> My academic training and prior experience span social sciences, arts, humanities, and Artificial Intelligence, and I worked in the media and technology industry for a long time as well. As such, I aspire to integrate social science expertise, humanistic perspectives, and AI-related insights to ensure my future work delivers tangible and meaningful impact within both academia and the real-world context, particularly in the field of AI plus health. Beyond conventional academic pursuits, I also plan to advance "AI for a better life" through collaborations with government agencies, NGOs, and commercial entities.
+> My academic training spans social sciences, arts, humanities, and Artificial Intelligence, and I worked in the media and technology industry for a long time. As such, I aspire to integrate social science expertise, humanistic perspectives, and AI-related insights to ensure my future work delivers tangible and meaningful impact within both academia and the real-world context, particularly in the field of AI plus health. Beyond conventional academic pursuits, I plan to advance "AI for a better life" through collaborations with government agencies, NGOs, and commercial entities as well.
 </p>
 
 ---
@@ -159,7 +159,9 @@
 
  <p align="center">
    
-## **✨ Quote** ##
+## **✨ Motto ** ##
+
+ <p align="center">
 > *"Keep Calm and Carry On."* 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
