@@ -22,15 +22,15 @@
 <p align="center">
   <!-- Google Scholar -->
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=EV9tKQUAAAAJ&view_op=list_works&gmla=AH8HC4zW642bKotuRjPgvfwPILOLZ8qrHsYGXTyx5z49yJ2twUfcGQo9JvDmdz2jksUHUYAA2HnFvZR6YDc-JEEs0u3OP5hc3cNn4jPA4yg">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" style="width: 150px; height: 50px"alt="Google Scholar"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" style="width: 150px; height: 35px"alt="Google Scholar"/>
   </a>
   <!-- GitHub -->
   <a href="https://github.com/LongxiangLuo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="width: 100px; height: 50px" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="width: 100px; height: 35px" alt="GitHub"/>
   </a>
   <!-- ORCID -->
   <a href="https://orcid.org/my-orcid?orcid=0000-0001-8473-2273">
-    <img src="https://orcid.org/assets/vectors/orcid.logo.svg" style="width: 100px; height: 50px" alt="ORCID"/>
+    <img src="https://orcid.org/assets/vectors/orcid.logo.svg" style="width: 100px; height: 35px" alt="ORCID"/>
 </p>
 
 ---
