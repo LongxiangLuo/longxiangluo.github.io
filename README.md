@@ -3,27 +3,27 @@
 </h1>
 
   
-<p align="center">
+<p style="text-align: left;">
   ☀️ Associate Professor, School of Arts and Communication, China University of Geosciences  | Sept. 2025 to Present
-<p align="center">
+<p style="text-align: left;">
   📖 Research Fellow, School of Automation, China University of Geosciences | Sept. 2025 to Present
-<p align="center">
+<p style="text-align: left;">
   🎓 Ph.D. Student in Journalism and Communication (New Media Studies), Peking University | Sept. 2021 to Jun.2025
- <p align="center">
- <p align="center">
+<p style="text-align: left;">
    🏚️ Address: 388 Lumo Road, Hongshan District, Wuhan, China. 430078.
- <p align="center">
-   📧 Email: <a href="mailto:longxiangluo@cug.edu.cn">longxiangluo@]cug.edu.cn</a>
-
-
-   
+<p style="text-align: left;">
+   📧 Email: <a href="mailto:longxiangluo@cug.edu.cn">longxiangluo@cug.edu.cn</a>  
 </p>
+
+
 
 ---
 
-## 🔬 Research Interests
-> **Human-machine Communication, Health Communication, and Science, Technology and Society**
-> 
+ <p align="center">
+## 🔬 **Research Interests** ## 
+   
+<p style="text-align: left;">
+> ****Human-machine Communication, Health Communication, and Science, Technology and Society****
 <p style="text-align: left;">
 > Focusing on topics related to media technology, AI, Robotics, and healthcare.**
 <p style="text-align: left;">
@@ -33,19 +33,23 @@
 </p>
 
 
+
 ---
 
-## 🌱 Long-term Vision
+ <p align="center">
+## 🌱 **Long-term Vision** ## 
+   
 <p style="text-align: left;">
 > I wish both my theoretical and empirical works would earn a real-world healthcare impact.
 </p>
 
 ---
 
-## 👨🏻‍💻 Selected Papers
+## 👨🏻‍💻 **Selected Papers** ##
+
 <p style="text-align: left;">
 > **English Paper**
-  <p align="center">
+
 <p style="text-align: left;"> Luo，L.，Li，X., & Liu, Z. (2025). How can AI Enhance Depression Detection in Patient-provider Communication: Empirical Evidence Based on Voice and Affective Computing Method. The 75th International Communication Association (ICA) Regional Hub, Hefei, China. 2025.
     <p align="center">
 <p style="text-align: left;">Luo，L.，Chen，F., & Liu, Z. (2025). Trust as Social Script in Human-machine Communication: Evidence from Mobile Banking Chatbots. The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII 2025), Zhuhai, China.
@@ -64,8 +68,9 @@
 
 </p>
 
-> **Chinese Paper**
 <p style="text-align: left;">
+> **Chinese Paper**
+
 <p style="text-align: left;">罗龙翔, 张玉涵, & 王秀丽. (2025). “AI幻觉”:基本内涵、典型表现、技术成因与应对策略. 新媒体传播研究, 1(1), 38–48.
   <p align="center">
 <p style="text-align: left;">罗龙翔, 王兵, & 王秀丽. (2024). 人机传播的失灵与修复：家庭成员“共同媒介参与”的视频分析研究. 国际新闻界, 46(08), 27–49. （CSSCI）
@@ -89,32 +94,33 @@
 </p>
   
 
+
+---
+
 ## 🏆 Awards
 
 <p style="text-align: left;">07/2023 State-Sponsored Scholarship for Study Abroad, China Scholarship Council (CSC).
-  <p align="center"> 
+
 <p style="text-align: left;">07/2023 President Scholarship for Graduates, Peking University.
-  <p align="center">
+
 <p style="text-align: left;">10/2022 “May Fourth” Scholarship (Highest Level of Student Scholarship), Peking University.
-  <p align="center">
+
 <p style="text-align: left;">10/2022 Outstanding Scientific Research Award, Peking University.
-  <p align="center">
+
 <p style="text-align: left;">10/2022 Academic Innovation Award, Peking University.
-  <p align="center">
+
 <p style="text-align: left;">10/2021 Merit Student, Peking University. 
-  <p align="center">
+
 <p style="text-align: left;">10/2020 .Special Academic Scholarship, Peking University.
-  <p align="center">
+
 <p style="text-align: left;">10/2019 “Modern Communication” Award, School of New Media, Peking University.
-
-
 </p>
 
 ---
 
 ## ✨ Quote
 > *"Keep Calm and Carry On."* 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  Thanks for your kindness and your support @AraonLuo00
 </p>
