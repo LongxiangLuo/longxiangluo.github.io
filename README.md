@@ -136,21 +136,21 @@
    
 ## 🏆 **Awards** ##
 
-<p style="text-align: left;">07/2023 State-Sponsored Scholarship for Study Abroad, China Scholarship Council (CSC).
+<p style="text-align: left;">07/2023  State-Sponsored Scholarship for Study Abroad, China Scholarship Council (CSC).
 
-<p style="text-align: left;">07/2023 President Scholarship for Graduates, Peking University.
+<p style="text-align: left;">07/2023  President Scholarship for Graduates, Peking University.
 
-<p style="text-align: left;">10/2022 “May Fourth” Scholarship (Highest Level of Student Scholarship), Peking University.
+<p style="text-align: left;">10/2022  “May Fourth” Scholarship (Highest Level of Student Scholarship), Peking University.
 
-<p style="text-align: left;">10/2022 Outstanding Scientific Research Award, Peking University.
+<p style="text-align: left;">10/2022  Outstanding Scientific Research Award, Peking University.
 
-<p style="text-align: left;">10/2022 Academic Innovation Award, Peking University.
+<p style="text-align: left;">10/2022  Academic Innovation Award, Peking University.
 
-<p style="text-align: left;">10/2021 Merit Student, Peking University. 
+<p style="text-align: left;">10/2021  Merit Student, Peking University. 
 
-<p style="text-align: left;">10/2020 .Special Academic Scholarship, Peking University.
+<p style="text-align: left;">10/2020  Special Academic Scholarship, Peking University.
 
-<p style="text-align: left;">10/2019 “Modern Communication” Award, School of New Media, Peking University.
+<p style="text-align: left;">10/2019  “Modern Communication” Award, School of New Media, Peking University.
 </p>
 
 ---
