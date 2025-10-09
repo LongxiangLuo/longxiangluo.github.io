@@ -15,7 +15,31 @@
    📧 Email: <a href="mailto:longxiangluo@cug.edu.cn">longxiangluo@cug.edu.cn</a>  
 </p>
 
+---
 
+## 🤝 Connect with me
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/xiaolong-luo-4a8281236/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=Pjx2DdQAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/AaronLuo00">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- Xiaohongshu -->
+  <a href="https://xhslink.com/m/9rvz3QJ3Tvu">
+    <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/>
+  </a>
+  <!-- ORCID -->
+  <a href="https://orcid.org/my-orcid?orcid=0000-0001-8473-2273">
+    <img src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="ORCID"/>
+  </a>
+</p>
 
 ---
 
@@ -129,5 +153,5 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 <p align="center">
-Thanks for your kindness and your support @AraonLuo00
+Thanks for your kindness and your support @AaronLuo00
 </p>
