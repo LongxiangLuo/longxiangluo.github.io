@@ -1,8 +1,16 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=400&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Longxiang+(Lawrence)+Luo;Associate+Professor+@+CUG+(WUhan);AI+Researcher+in+Healthcare;Building+Healthcare+Robots" alt="Typing SVG" />
 </h1>
+</p>
 
-  
+---
+
+ <p align="center">
+ <img src="https://raw.githubusercontent.com/LongxiangLuo/longxiangluo.github.io/main/LawrenceLuo.jpg" width="600" alt="PersonalPicture"/>
+</p>
+
+
+---
 <p style="text-align: left;">
   ☀️ Associate Professor, School of Arts and Communication, China University of Geosciences  | Sept. 2025 to Present
 <p style="text-align: left;">
@@ -13,13 +21,6 @@
    🏚️ Address: 388 Lumo Road, Hongshan District, Wuhan, China. 430078.
 <p style="text-align: left;">
    📧 Email: <a href="mailto:longxiangluo@cug.edu.cn">longxiangluo@cug.edu.cn</a>  
-</p>
-
----
-
- <p align="center">
- <img src="https://raw.githubusercontent.com/LongxiangLuo/longxiangluo.github.io/main/LawrenceLuo.jpg" width="600" alt="PersonalPicture"/>
-
 </p>
 
 ---
