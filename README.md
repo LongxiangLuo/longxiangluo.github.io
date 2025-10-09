@@ -67,7 +67,7 @@
 ## 🌱 **Long-term Vision** ## 
    
 <p style="text-align: left;">
-> I wish both my theoretical and empirical works would earn a real-world healthcare impact.
+> My academic training and prior experience span social sciences, arts, humanities, and Artificial Intelligence, and I worked in the media and technology industry for a long time as well. As such, I aspire to integrate social science expertise, humanistic perspectives, and AI-related insights to ensure my future work delivers tangible and meaningful impact within both academia and the real-world context, particularly in the field of AI plus health. Beyond conventional academic pursuits, I also plan to advance "AI for a better life" through collaborations with government agencies, NGOs, and commercial entities.
 </p>
 
 ---
