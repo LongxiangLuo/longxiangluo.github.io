@@ -17,9 +17,8 @@
 
 ---
 
-
  <p align="center">
- <img src="https://raw.githubusercontent.com/LongxiangLuo/longxiangluo.github.io/d8b66ebe2ce1a88b3060aa8326e48ea454ae6493/LawrenceLuo.jpg" width="600" alt="PersonalPicture"/>
+ <img src="https://raw.githubusercontent.com/LongxiangLuo/longxiangluo.github.io/main/LawrenceLuo.jpg" width="600" alt="PersonalPicture"/>
 
 </p>
 
