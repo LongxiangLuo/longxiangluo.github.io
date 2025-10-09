@@ -9,6 +9,10 @@
 </p>
 
 ---
+ <p align="center">
+
+ ## ℹ️ **Basic Info** 
+
 <p style="text-align: left;">
   ☀️ Associate Professor, School of Arts and Communication, China University of Geosciences  | Sept. 2025 to Present
 <p style="text-align: left;">
@@ -24,7 +28,7 @@
 ---
  <p align="center">
    
-## 🌐 **Find me** ****
+## 🌐 **Find me** 
 <p align="center">
   <!-- Google Scholar -->
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=EV9tKQUAAAAJ&view_op=list_works&gmla=AH8HC4zW642bKotuRjPgvfwPILOLZ8qrHsYGXTyx5z49yJ2twUfcGQo9JvDmdz2jksUHUYAA2HnFvZR6YDc-JEEs0u3OP5hc3cNn4jPA4yg">
