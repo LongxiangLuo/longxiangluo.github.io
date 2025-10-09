@@ -58,7 +58,7 @@
 <p style="text-align: left;">
 > Primarily employs classical quantitative and qualitative methods from social science research.
 <p style="text-align: left;">
-> Or integrates concepts and methods from affective computing and Science, Technology and Society.
+> And/Or integrates concepts and methods from the field of Affective Computing and STS.
 </p>
 
 ---
