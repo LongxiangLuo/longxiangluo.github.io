@@ -122,5 +122,6 @@
 > *"Keep Calm and Carry On."* 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  Thanks for your kindness and your support @AraonLuo00
+<p style="text-align: left;">
+Thanks for your kindness and your support @AraonLuo00
 </p>
